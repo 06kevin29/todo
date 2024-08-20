@@ -2,6 +2,8 @@
 
 This repository contains a simple ToDo List web application built with a React.js frontend and a Django backend. The project demonstrates the integration of a modern JavaScript library with a traditional web framework, showcasing how to create a full-stack web application.
 
+![alt text](https://github.com/06kevin29/todo/blob/master/client/src/images/sample.png)
+
 ## Features
 
 - **React.js Frontend**: The frontend is built using React.js and Material-UI (MUI) for the UI components.
